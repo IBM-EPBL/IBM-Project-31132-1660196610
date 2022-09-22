@@ -1,7 +1,8 @@
 # IBM-Project-31132-1660196610
 SmartFarmer - IoT Enabled Smart Farming Application.
 
-Team : 
+Team :
+
 Akkash M Rao (910619106003),
 
 Madhava Narayana K (910619106028),
